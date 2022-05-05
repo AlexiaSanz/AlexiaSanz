@@ -4,7 +4,19 @@ Hi 👋 My name is Alexia SANZ de GALDEANO
 Développeur web
 ---------------
 
-Autodidacte, je me suis formée à différents langages, frameworks et outils : HTML, CSS, C#, .Net Core, Git, Github. Aujourd'hui, je souhaite officialiser et compléter cet apprentissage via une formation en alternance avec l'école OpenClassrooms. Cette alternance avec une école en ligne permet à l'entreprise de choisir le début de formation. Libre immédiatement, la formation peut démarrer le plus rapidement possible. Je recherche une entreprise qui partage mes valeurs : goût pour la découverte, sérieux et application dans le travail, dynamisme et travail d'équipe. Mes compétences en HTML / CSS : Construction complète d’un site : formulaires, ajout d’images/ vidéos/ gif/ tableaux, apparences dynamiques, flexbox, media queries, variables, Twitter / facebook / Open graph Cards, responsive design. Mes compétences en C# et .Net Core : Programmation orientée objet ASP.NET CORE sérialisation / désérialisation format Json Communication réseau : webclient Linq, API Rest, Configuration SQLServer Formation Git et Github en cours.
+Autodidacte, je me suis formée à différents langages, frameworks et outils : HTML, CSS, C#, .Net Core, Git, Github. Aujourd'hui, je souhaite officialiser et compléter cet apprentissage via une formation en alternance avec l'école OpenClassrooms. 
+
+Cette alternance avec une école en ligne permet à l'entreprise de choisir le début de formation. Libre immédiatement, la formation peut démarrer le plus rapidement possible. Je recherche une entreprise qui partage mes valeurs : goût pour la découverte, sérieux et application dans le travail, dynamisme et travail d'équipe.
+
+Mes compétences en HTML / CSS :
+
+Construction complète d’un site : formulaires, ajout d’images/ vidéos/ gif/ tableaux, apparences dynamiques, flexbox, media queries, variables, Twitter / facebook / Open graph Cards, responsive design.
+
+Mes compétences en C# et .Net Core : 
+
+Programmation orientée objet ASP.NET CORE sérialisation / désérialisation format Json Communication réseau : webclient Linq, API Rest, Configuration SQLServer 
+
+Formation Git et Github en cours.
 
 * 🌍  I'm based in Bordeaux
 * ✉️  You can contact me at [alexiasanzdegaldeano@gmail.com](mailto:alexiasanzdegaldeano@gmail.com)
